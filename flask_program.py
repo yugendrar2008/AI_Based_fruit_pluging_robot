@@ -5,7 +5,7 @@ import requests
 
 app = Flask(__name__)
 
-PI5_IP = "192.168.1.100"   # 🔥 CHANGE THIS
+PI5_IP = "192.168.1.100"  
 
 HTML = """
 <h1>Robot Control</h1>
